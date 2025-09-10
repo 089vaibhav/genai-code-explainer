@@ -45,7 +45,7 @@ Git
 🚀 Setup and Installation
 Clone the repository:
 
-git clone [https://github.com/YOUR-USERNAME/genai-code-explainer.git](https://github.com/YOUR-USERNAME/genai-code-explainer.git)
+git clone [https://github.com/YOUR-USERNAME/genai-code-explainer.git](https://github.com/089vaibhav/genai-code-explainer.git)
 cd genai-code-explainer
 
 Install and run Ollama with Llama 3:
